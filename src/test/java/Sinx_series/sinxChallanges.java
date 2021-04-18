@@ -24,6 +24,7 @@ public class sinxChallanges {
 
 		}
 		System.out.println("sin of x is  : " + sinxValue);
+		
 	}
 
 	public static void main(String[] args) {
